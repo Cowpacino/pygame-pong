@@ -1,4 +1,3 @@
-Pong Game with Pygame
 Overview
 This is a simple Pong game implemented using the Pygame library in Python. The game features two paddles and a ball that bounces back and forth. Players can control the paddles using the keyboard to keep the ball in play.
 
